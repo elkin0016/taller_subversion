@@ -16,6 +16,12 @@ public class Taller_tercer_corte {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+    } 
+        //ver20 
+    public static int sumadedosnumeros(int n1, int n2) {
+        int resultado;
+        resultado = n1 + n2;
+        return resultado;
     }
     
 }
